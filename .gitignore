@@ -1,6 +1,7 @@
 # Keep these files out of the repo
 /themes/twenty*
 /upgrade
+/themes/university-theme/images
 /uploads
 /sitemap.*
 /wp-config.php
