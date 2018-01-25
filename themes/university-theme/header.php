@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
 <html <?php language_attributes() ?>>
     <head>
         <meta charset="<?php bloginfo('charset');?>">
